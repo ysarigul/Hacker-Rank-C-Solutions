@@ -1,1 +1,3 @@
-# Hacker-Rank-C-Solutions
+# Hacker-Rank-Cpp-Solutions
+
+Solutions to HackerRank challenges in C++
